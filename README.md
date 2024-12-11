@@ -13,11 +13,11 @@ Before getting started, make sure you have the following tools installed:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/wapostlew/ecommerce-autotest.git ./<your_directory_name>
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd <your_directory_name>
     ```
 
 ## Installing Dependencies
